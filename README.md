@@ -1,6 +1,6 @@
 # papercliff
 
-Papercliff looks at the world’s largest news agencies, reads articles, understands and shares keywords. To use this API, visit the following webpage and get an X-RapidAPI-Key:
+Papercliff looks at the world’s largest news agencies, reads articles, identifies and shares keywords. To use this API, visit the following webpage and get an X-RapidAPI-Key:
 
 https://rapidapi.com/mrdimosthenis/api/papercliff/
 
